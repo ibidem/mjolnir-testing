@@ -9,6 +9,12 @@
  */
 class HiddenExampleClass extends \app\Instantiatable
 {
-	// @todo write implementation for \mjolnir\testing\HiddenExampleClass
+	/**
+	 * @return string
+	 */
+	function hello_world()
+	{
+		return 'hello, world';
+	}
 
 } # class
