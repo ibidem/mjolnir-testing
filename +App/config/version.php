@@ -2,7 +2,7 @@
 	(
 		'mjolnir\testing' => array
 			(
-				'major' => '1',
+				'major' => '0',
 				'minor' => '0',
 			)
 	);
