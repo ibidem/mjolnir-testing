@@ -2,7 +2,8 @@
 	(
 		'mjolnir\testing' => array
 			(
-				'major' => '0',
+				'major' => '1',
 				'minor' => '0',
+				'tag' => 'liquid'
 			)
 	);
