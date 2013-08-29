@@ -7,7 +7,7 @@
  * @copyright  (c) 2013, Ibidem Team
  * @license    https://github.com/ibidem/ibidem/blob/master/LICENSE.md
  */
-class PHPUnit_Framework_TestCase extends \PHPUnit_Framework_TestCase
+abstract class PHPUnit_Framework_TestCase extends \PHPUnit_Framework_TestCase
 {
 	// overwrite hook
 
