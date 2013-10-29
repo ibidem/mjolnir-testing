@@ -1,5 +1,17 @@
 <?php namespace mjolnir\testing;
 
+if ( ! \class_exists('\PHPUnit_Framework_TestCase')):
+
+	abstract class PHPUnit_Framework_TestCase
+	{
+		// honeypot stub
+
+	}; # class
+
+	return;
+
+endif;
+
 /**
  * @package    mjolnir
  * @category   PHPUnit
